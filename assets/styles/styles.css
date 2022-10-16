@@ -169,7 +169,8 @@ h1, h2, h3, h4, h5, h6 {
 	/*font-weight: 500;*/
 }
 
-.experience-topics ul li {
+
+.experience, .experience-topics ul li {
 	list-style: none;
 	color: #bbd2ff;
 	font-family: "Maven pro", sans-serif;
@@ -236,47 +237,6 @@ h1, h2, h3, h4, h5, h6 {
 		background-color: rgba(255, 103, 68, 0.91) !important;
 		color: #fff;
 }
-
-/*** teaching ***/
-#teaching {
-	padding: 6em 4em 3em;
-}
-
-#teaching h2 {
-	color: #595959;
-}
-
-#teaching .tag-line {
-	color: #848282;
-	font-size: 1.4em;
-}
-
-#teaching .teaching-domains {
-	height: 500px;
-	width: auto;
-	margin-top: -4em;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*** Footer Call-to-action ***/
 #footer-cta {
 	background-color: rgba(255, 103, 68, 0.91);
